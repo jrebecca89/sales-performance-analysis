@@ -28,4 +28,4 @@ To analyze the performance of sales representatives and lead sources based on de
 - Consider automating outreach for underperforming lead sources.
 
 ## Screenshot Preview  
-*(Attach your dashboard image as `dashboard.png` once uploaded)*
+![Sales Dashboard](./Screenshot_20250415_141011_Sheets.jpg)
