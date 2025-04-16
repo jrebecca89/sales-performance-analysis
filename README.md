@@ -36,7 +36,7 @@ To analyze the performance of sales representatives and lead sources based on de
 
 Built a mobile-first loan efficiency dashboard using Google Sheets and Excel to analyze funding delays. Used sample loan data to measure average funding duration by rep. Created a chart and surfaced insights + recommendations to improve operational workflows.
 
-![Loan Efficiency Dashboard](Screenshot_20250415_220318_Sheets.jpg)
+![Loan Efficiency Dashboard](Screenshot_20250415_223124_Sheets.jpg)
 
 ### Key Metrics:
 - Avg. Funding Duration by Rep
