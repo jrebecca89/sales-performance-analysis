@@ -4,7 +4,7 @@
 To analyze the performance of sales representatives and lead sources based on deal volume, revenue, and efficiency.
 
 ## Tools Used  
-- Google Sheets (Mobile – Samsung Galaxy S24)  
+- Google Sheets 
 - Excel formulas (VLOOKUP, basic math)  
 - Charts: Bar, Column, and Pie  
 - Mobile Screenshots for dashboard visual
@@ -43,7 +43,7 @@ Built a mobile-first loan efficiency dashboard using Google Sheets and Excel to 
 - Performance Variance
 
 ### Tools Used:
-- Google Sheets (Mobile - Galaxy S24)
+- Google Sheets 
 - Excel formulas (DATEDIF, AVERAGEIF)
 - Bar chart visualization
 - Manual insights + strategy write-up
